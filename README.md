@@ -8,6 +8,6 @@ Salah satunya adalah seperti contoh yang terdapat dalam file PengecualianEnhance
 
 Selain itu, Enhanced-If juga memiliki keterbatasan. Salah satu contoh keterbatasannya adalah enhanced-if tidak dapat digunakan untuk melakukan pengecekan lebih dari satu syarat dalam satu kali pengecekan. Sehingga, Enhanced-If tidak dapat digunakan untuk melakukan pengecekan dengan syarat yang memiliki operator and (&&) dan or (||) karena penggunaan kedua operator tersebut berarti statement conditional mengecek lebih dari 1 syarat dalam sekali pengecekan.
 
-## file Enhanced For: Isi file ini menunjukkan contoh penggunaan Enhanced-For untuk memprint elemen suatu array satu per satu, secara berurutan dari elemen pertama hingga elemen akhir.
+*file Enhanced For: Isi file ini menunjukkan contoh penggunaan Enhanced-For untuk memprint elemen suatu array satu per satu, secara berurutan dari elemen pertama hingga elemen akhir.
 
-## file Enhanced If: Isi file ini menunjukkan contoh penggunaan Enhanced-If untuk memprint hasil pengecekan hanya satu syarat, yaitu apakah nilai variabel umur lebih besar dari 17.
+*file Enhanced If: Isi file ini menunjukkan contoh penggunaan Enhanced-If untuk memprint hasil pengecekan hanya satu syarat, yaitu apakah nilai variabel umur lebih besar dari 17.
