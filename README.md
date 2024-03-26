@@ -4,7 +4,7 @@
 
 Folder ini berisi tugas untuk menunjukkan contoh penggunaan Enhanced-For dan Enhanced-If dalam bahasa Java. Enhanced-For dan Enhanced-If itu sendiri merupakan cara lain untuk melakukan perulangan serta conditional dengan syntax yang lebih singkat dibandingkan dengan syntax for dan if yang umumnya digunakan. Namun, walaupun lebih singkat, terdapat keterbatasan dalam penggunaan enhanced-for dan enhanced-if.
 
-Salah satunya adalah seperti contoh yang terdapat dalam file PengecualianEnhance.java. Yang menunjukkan bahwa Enhanced-For tidak dapat digunakan untuk mengakses array berdasarkan indeksnya. Selain itu, keterbatasan lain dalam Enhanced-For, adalah for loop nya tidak dapat dilakukan dari elemen terakhir dalam array. Konsep jalannya program menggunakan for each akan dimulai dari elemen pertama, hingga akhir satu per satu.
+Salah satunya adalah seperti contoh yang terdapat dalam file PengecualianEnhance.java. Yang menunjukkan bahwa saat dimana Enhanced-For tidak dapat digunakan untuk mengakses array berdasarkan indeksnya. Selain itu, keterbatasan lain dalam Enhanced-For, adalah for loop nya tidak dapat dilakukan dari elemen terakhir dalam array. Konsep jalannya program menggunakan for each akan dimulai dari elemen pertama, hingga akhir satu per satu.
 
 Selain itu, Enhanced-If juga memiliki keterbatasan. Salah satu contoh keterbatasannya adalah enhanced-if tidak dapat digunakan untuk melakukan pengecekan lebih dari satu syarat dalam satu kali pengecekan. Sehingga, Enhanced-If tidak dapat digunakan untuk melakukan pengecekan dengan syarat yang memiliki operator and (&&) dan or (||) karena penggunaan kedua operator tersebut berarti statement conditional mengecek lebih dari 1 syarat dalam sekali pengecekan.
 
